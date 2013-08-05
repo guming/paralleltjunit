@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <name>jinn-paralleljunit</name>
-  <url>http://msgpack.org/</url>
+  <url>https://github.com/guming/jekyll_jinn/</url>
 
   <licenses>
     <license>
@@ -14,7 +14,10 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-
+  <scm>
+    <connection>scm:git:git://github.com/guming/paralleltjunit.git</connection>
+    <url>scm:git:git://github.com/guming/paralleltjunit.git</url>
+  </scm>
   <build>
     <resources>
       <resource>
