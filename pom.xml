@@ -14,7 +14,10 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-
+  <scm>
+    <connection>scm:git:git://github.com/guming/paralleltjunit.git</connection>
+    <url>scm:git:git://github.com/guming/paralleltjunit.git</url>
+  </scm>
   <build>
     <resources>
       <resource>
