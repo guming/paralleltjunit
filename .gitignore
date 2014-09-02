@@ -1,0 +1,8 @@
+#ignore this files
+.idea/*
+*.index
+*.threads
+*.log
+.idea/*
+target/*
+
